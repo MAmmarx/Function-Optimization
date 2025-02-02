@@ -1,5 +1,5 @@
 # Function-Optimization
-This project was mae in Calculus 2 course by myself and its about otimization algorithms and their application to different types of objective functions
+This project was made in 1st Year of Univesity in Calculus 2 course by myself and its about otimization algorithms and their application to different types of objective functions
 
 # 🏋️ Optimization Algorithms & Linear Programming
 
